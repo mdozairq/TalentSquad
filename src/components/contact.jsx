@@ -137,8 +137,8 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
+                    <a href={props.data ? props.data.linkedin : '/'}>
+                      <i className='fa fa-linkedin'></i>
                     </a>
                   </li>
                 </ul>

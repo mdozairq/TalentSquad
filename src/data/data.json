@@ -4,7 +4,7 @@
     "paragraph": "Why Do You Want To Leave Your Current Job?: All the Stats, Facts, and Data You’ll Ever Need to Know"
   },
   "About": {
-    "paragraph": "Talent Squad is a Initial player in the global outsourcing business market. We offer a wide basket of offshore services to our clients - from recruiting talent for offices around the world to staff augmentation services to technology & product development teams to hiring experienced international recruiters for assisting onsite hiring teams to boosting brand image to lead generation to business development.",
+    "paragraph": "TalentSquad, headquartered in Bihar, India & Partner company of Infinetworx, Malaysia. We serve as a specialized in IT Staffing. Our core business is providing IT resources to our client. We are a young team of staffing expertise and includes highly-qualified, talented pool of professionals who hail from industries and have evolved themselves with IT Talents within niche space. We believe in working together with our clients to understand their needs and working methods. Our team contributes its best efforts to assemble the best possible combination of skills and experience to meet the client’s needs and deliver high quality solutions. We cater to all the three segments i.e. Senior Level, Mid-Level and Junior/Fresher level recruitment.",
     "Why": [
       "Choosing what is best for you.",
       "The things to look for a perfect candidate",
@@ -28,46 +28,11 @@
       "title": "Project Title",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-language",
       "name": "Recruiter on Demand",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
@@ -82,7 +47,7 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-group",
       "name": "Total Workforce Management",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
@@ -142,12 +107,12 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Bhagalpur, Bihar-812001, India",
+    "phone": "+91 9876543210",
+    "email": "hr@talentsquad.biz",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "linkedin": "https://www.linkedin.com/company/talentsquad-biz/"
   },
   "Features": [
     {
