@@ -3,7 +3,9 @@ import imageT from './download-removebg-preview.png';
 
 export const Navigation = (props) => {
   return (
-    <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
+    <nav id='menu' className='navbar navbar-default navbar-fixed-top'style={{
+      background:"#F8BBD0"
+    }}>
       <div className='container'>
         <div className='navbar-header'>
           <button
@@ -18,7 +20,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
+          <a className='navbar-brand page-scroll' href='#page-top' >
             Talent Squad
             {/* <img src={imageT} style={{width:"200px", height:"50px"}}/> */}
           </a>{' '}

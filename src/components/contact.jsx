@@ -34,7 +34,10 @@ export const Contact = (props) => {
   }
   return (
     <div>
-      <div id='contact'>
+      <div id='contact'
+      style={{
+      background:"#70C8D3"
+    }}>
         <div className='container'>
           <div className='col-md-8'>
             <div className='row'>
